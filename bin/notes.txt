@@ -10,3 +10,12 @@ if
 for while
 File handling
 Compressions
+
+To install any new libraries two methods are available :
+1) pip    =>  pip install library name
+2) easy_install   =>  easy_install library name
+
+
+Class has Methods and Variables in pythons
+Two types instance ( with self ) and static
+Instance Object and Class Object
