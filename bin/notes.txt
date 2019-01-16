@@ -1,0 +1,12 @@
+Learnings so far
+
+x = 10
+s = 'py'
+L = []
+T = ()
+D = {}
+S = {}
+if
+for while
+File handling
+Compressions
