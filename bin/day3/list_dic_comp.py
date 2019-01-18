@@ -32,8 +32,8 @@ print(list(T))
 ##########################################
 # print statements
 
-#print(date)
-#print(date)
-#print(image)
-#print(website)
-#print(test)
+print(date)
+print(date)
+print(image)
+print(website)
+print(test)
